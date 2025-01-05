@@ -1,0 +1,6 @@
+# Challenge solved using GMIC 
+
+# This method requires the GMIC CLI for Mac/Linux machines
+
+# Command inputted to blend the two images together
+gmic lemur.png flag.png -blend xor -o result.png

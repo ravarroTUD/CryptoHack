@@ -1,0 +1,2 @@
+# Used an online JWT decoder to get the flag
+# https://fusionauth.io/dev-tools/jwt-decoder
